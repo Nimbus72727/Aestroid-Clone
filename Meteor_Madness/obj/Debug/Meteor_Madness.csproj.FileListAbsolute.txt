@@ -1,0 +1,12 @@
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\bin\Debug\Meteor_Madness.exe.config
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\bin\Debug\Meteor_Madness.exe
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\bin\Debug\Meteor_Madness.pdb
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\obj\Debug\Meteor_Madness.csproj.AssemblyReference.cache
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\obj\Debug\Meteor_Madness.Form1.resources
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\obj\Debug\Meteor_Madness.Properties.Resources.resources
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\obj\Debug\Meteor_Madness.csproj.GenerateResource.cache
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\obj\Debug\Meteor_Madness.csproj.CoreCompileInputs.cache
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\obj\Debug\Meteor_Madness.exe
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\obj\Debug\Meteor_Madness.pdb
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\bin\Debug\space.jpeg
+C:\Users\jackd\OneDrive\Desktop\CIS 297 C#\Meteor_Madness\bin\Debug\heart.png
